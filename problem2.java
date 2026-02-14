@@ -1,7 +1,6 @@
 import java.util.Arrays; //Imports the arrays
 
 public class problem2 {
-    public class ArrayIncrementer {
         
         public static void main(String[] args) {
             int[] numbers = {1, 2, 3, 4, 5};
@@ -17,6 +16,4 @@ public class problem2 {
 
             System.out.println("Incremented array: " + Arrays.toString(arr));
         }
-
-    }
 }
